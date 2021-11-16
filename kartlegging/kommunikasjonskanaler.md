@@ -1,0 +1,3 @@
+# Oppsummering av «issue om kartlegging av kommunikasjonskanaler
+
+kommer...
