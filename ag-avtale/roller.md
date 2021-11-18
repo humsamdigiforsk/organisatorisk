@@ -19,4 +19,4 @@
 
 ## Andre roller?
 ### Samarbeidspartnere (GA)
-- DSC (GA)(NMa)
+- DSC (GA, NMa)
