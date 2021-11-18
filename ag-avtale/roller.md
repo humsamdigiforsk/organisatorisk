@@ -10,9 +10,13 @@
 - har brukt LaTeX og emacs i mange år men er ikke oppdatert på nyere brukergrensesnitt (bruker fortsatt kommandolinje/tekstabasert grensesnitt) (GA)
 - har ikke språk- eller litteraturbakgrunn, dvs. ingen kompetanse på textmining o.l. (GA)
 - ser ikke helt hva jeg kan bidra med annet enn å formidle kontakt mellom fagmiljøene/enkeltpersoner og DSC når det gjelder behov for opplæring innen datahåndtering, eller Pål når det gjelder spørsmål om Zotero, etc. (GA)
+### Naomi (NMa)
+- vil lære mer om Voyant, Zotero, Hypothesis som kan være relevante for mine fagmiljø (NMa)
+- gjerne lære mer om TEI
+- fjernlesning - det er noe interesse i fagmiljø - gjerne finne relevante verktøy 
 
 ## Fagfeller
 
 ## Andre roller?
 ### Samarbeidspartnere (GA)
-- DSC (GA)
+- DSC (GA)(NMa)
