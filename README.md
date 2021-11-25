@@ -12,3 +12,7 @@ Repositoriet for organisatoriske dokumenter, f.eks. referater, notater, etc. fra
 ## moeter
 
 [Mappe](/moeter) for referater og agendaer for møter
+
+## ag-avtale
+
+[Mappe](/ag-avtale) med notater og dokumenter rundt arbeidsgruppeavtale
