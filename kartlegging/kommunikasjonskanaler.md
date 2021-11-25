@@ -30,7 +30,7 @@ Her er kanalane mest i samanheng med kursing av masterstudentane, Zoterokurs og 
 
 ## Hvalensmakt - projekt
 
-- PhD, 1 post doc, 1 researcher i denne gruppe + leder som er førsteamanuensis
+- 3 PhD, 1 post doc, 1 researcher i denne gruppe + leder som er førsteamanuensis
 
 - har hatt spørsmål om heldags kurs (for IKOS) for NVivo kurs før sommer - tok kontakt med Matthew, men i UiO fantes ikke som kunne utføre heledags kurs. De anskaffet eksterne NVivo kurs.
     
