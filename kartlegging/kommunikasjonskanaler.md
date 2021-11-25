@@ -2,14 +2,14 @@
 
 ## Musikkvitenskap:
 
-    - jeg informerer på oppstartseminar for nye ph.d.-stipendiater på HF
-    - sender info om kurs o.l. til forskningskonsulenten på IMV og ber om at det formidles videre til de ansatte
-    - nesten ikke henvendelser fra masterstudenter per i dag
+- jeg informerer på oppstartseminar for nye ph.d.-stipendiater på HF
+- sender info om kurs o.l. til forskningskonsulenten på IMV og ber om at det formidles videre til de ansatte
+- nesten ikke henvendelser fra masterstudenter per i dag
 
 ## Kulturhistorie:
 
-    - ingen henvendelser per i dag (oppdatering: ønske om kurs i hvordan utfylle NSD-skjema (h21))
-    - har ingen kontaktpersoner som jeg kan sende informasjon til (kanskje vi som har fag på IKOS kan samarbeide?)
+- ingen henvendelser per i dag (oppdatering: ønske om kurs i hvordan utfylle NSD-skjema (h21))
+- har ingen kontaktpersoner som jeg kan sende informasjon til (kanskje vi som har fag på IKOS kan samarbeide?)
 
 ## Spesialpedagogikk:
 
@@ -25,15 +25,16 @@ Her er kanalane mest i samanheng med kursing av masterstudentane, Zoterokurs og 
 
 ## Japansk
 
-    - ingen henvendelser per i dag. Jeg introduserer diverse informasjon til nye PhD kandidater (per i dag en)
-    - MA studenter kan være interessert i disse informasjon
+- ingen henvendelser per i dag. Jeg introduserer diverse informasjon til nye PhD kandidater (per i dag en)
+- MA studenter kan være interessert i disse informasjon
 
 ## Hvalensmakt - projekt
 
-    - PhD, 1 post doc, 1 researcher i denne gruppe + leder som er førsteamanuensis
+- PhD, 1 post doc, 1 researcher i denne gruppe + leder som er førsteamanuensis
 
-    - har hatt spørsmål om heldags kurs (for IKOS) for NVivo kurs før sommer - tok kontakt med Matthew, men i UiO fantes ikke som kunne utføre heledags kurs. De anskaffet eksterne NVivo kurs.
-    - sender diverse informasjon som er relevente for dem. Kan sende DH relatert informasjon aktivt her mer?
+- har hatt spørsmål om heldags kurs (for IKOS) for NVivo kurs før sommer - tok kontakt med Matthew, men i UiO fantes ikke som kunne utføre heledags kurs. De anskaffet eksterne NVivo kurs.
+    
+- sender diverse informasjon som er relevente for dem. Kan sende DH relatert informasjon aktivt her mer?
 
 
 ## Statsvitenskap?
