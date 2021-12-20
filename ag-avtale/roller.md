@@ -14,6 +14,7 @@
 - vil lære mer om Voyant, Zotero, Hypothesis, SQL som kan være relevante for mine fagmiljø (NMa)
 - gjerne lære mer om TEI
 - fjernlesning - det er noe interesse for fagmiljø - gjerne finne relevante verktøy 
+- se behov for å lage oversikt over program osv. og hva slag formål som passer for disse program, eventuelt hva vår gruppe kan tilby hjelp 
 
 ## Fagfeller
 
